@@ -1,0 +1,1 @@
+部分笔记会在[github](https://github.com/GooTal)和[csdn博客](https://blog.csdn.net/GooTal?spm=1011.2415.3001.5343)同步。
